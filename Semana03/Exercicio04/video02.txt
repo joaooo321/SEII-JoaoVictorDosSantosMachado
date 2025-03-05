@@ -1,0 +1,8 @@
+video "Data Structures and Algorithms In C#: Big-O Notation"
+
+O vídeo aborda a Notação Big O, que mede a eficiência dos algoritmos em termos de complexidade de tempo. O autor foca nos 
+principais tipos de complexidade: O(1) (constante), O(n) (linear) e O(n^2) (quadrática). Ele destaca a importância de reconhecer 
+rapidamente a complexidade de um algoritmo observando padrões como atribuições simples (constante), laços de repetição (linear) e 
+laços aninhados (quadrática). Além disso, menciona que entrevistas técnicas em empresas como Microsoft e Google avaliam candidatos
+com base nessa compreensão. O instrutor reforça que otimizar algoritmos para reduzir a complexidade é essencial para um bom 
+desempenho na programação e ilustra os conceitos com exemplos práticos de código.

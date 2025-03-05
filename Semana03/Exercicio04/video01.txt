@@ -1,0 +1,8 @@
+vídeo "Data Structures and Algorithms In C#: Intro & Abstract Data Types".
+
+foi mostrado o conceito de Tipos Abstratos de Dados (ADT) no contexto da programação orientada a objetos, utilizando C# como linguagem 
+base. É explicado que ADTs são essencialmente classes que armazenam e manipulam dados, destacando a importância de compreender a 
+estrutura e o funcionamento de listas, filas e pilhas. Ele enfatiza que a programação envolve a criação, leitura, atualização e 
+exclusão de dados (CRUD). Além disso, demonstra como criar um projeto no Visual Studio para implementar ADTs, organizando os arquivos 
+em diretórios estruturados, ele também faz analogias para facilitar a compreensão da importância das classes,comparando-as 
+a caixas organizadoras de ferramentas para estruturar os dados de forma lógica.
