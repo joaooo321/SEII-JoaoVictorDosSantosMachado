@@ -1,0 +1,15 @@
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\bin\Debug\net9.0\video_01.exe
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\bin\Debug\net9.0\video_01.deps.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\bin\Debug\net9.0\video_01.runtimeconfig.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\bin\Debug\net9.0\video_01.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\bin\Debug\net9.0\video_01.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.AssemblyInfoInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.AssemblyInfo.cs
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.csproj.CoreCompileInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.sourcelink.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\refint\video_01.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\video_01.genruntimeconfig.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana03\Exercicio03\video_01\obj\Debug\net9.0\ref\video_01.dll
