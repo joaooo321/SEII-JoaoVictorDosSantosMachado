@@ -1,0 +1,14 @@
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.exe
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.deps.json
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.runtimeconfig.json
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.dll
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\bin\Debug\net9.0\ProjetoPOO.pdb
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.dll
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\refint\ProjetoPOO.dll
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.pdb
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ProjetoPOO.genruntimeconfig.cache
+C:\Users\joaoo\Downloads\LINUX\SEII-JoaoVictorDosSantosMachado\Semana04\ProjetoPOO\obj\Debug\net9.0\ref\ProjetoPOO.dll

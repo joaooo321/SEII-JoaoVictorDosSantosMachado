@@ -1,0 +1,15 @@
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\bin\Debug\net9.0\01Conceitos.exe
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\bin\Debug\net9.0\01Conceitos.deps.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\bin\Debug\net9.0\01Conceitos.runtimeconfig.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\bin\Debug\net9.0\01Conceitos.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\bin\Debug\net9.0\01Conceitos.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.AssemblyInfo.cs
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.sourcelink.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\refint\01Conceitos.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\01Conceitos.genruntimeconfig.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_01\obj\Debug\net9.0\ref\01Conceitos.dll

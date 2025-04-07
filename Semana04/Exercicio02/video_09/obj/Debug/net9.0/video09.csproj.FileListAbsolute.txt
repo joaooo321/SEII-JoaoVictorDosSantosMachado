@@ -1,0 +1,15 @@
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/bin/Debug/net9.0/video09
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/bin/Debug/net9.0/video09.deps.json
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/bin/Debug/net9.0/video09.runtimeconfig.json
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/bin/Debug/net9.0/video09.dll
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/bin/Debug/net9.0/video09.pdb
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.AssemblyInfoInputs.cache
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.AssemblyInfo.cs
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.csproj.CoreCompileInputs.cache
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.sourcelink.json
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.dll
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/refint/video09.dll
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.pdb
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/video09.genruntimeconfig.cache
+/home/nathan/SEII-NathaBernardesCampos/Semana04/Exercicio02/video09/obj/Debug/net9.0/ref/video09.dll

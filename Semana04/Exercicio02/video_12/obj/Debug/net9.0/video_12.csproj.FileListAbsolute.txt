@@ -1,0 +1,15 @@
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\bin\Debug\net9.0\video_12.exe
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\bin\Debug\net9.0\video_12.deps.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\bin\Debug\net9.0\video_12.runtimeconfig.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\bin\Debug\net9.0\video_12.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\bin\Debug\net9.0\video_12.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.AssemblyInfoInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.AssemblyInfo.cs
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.csproj.CoreCompileInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.sourcelink.json
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\refint\video_12.dll
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.pdb
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\video_12.genruntimeconfig.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Trabalho Final SDG\Semana04\Exercicio02\video_12\obj\Debug\net9.0\ref\video_12.dll

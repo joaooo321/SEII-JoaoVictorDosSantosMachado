@@ -1,0 +1,20 @@
+
+- Paradigma Procedural vs. POO:  
+  No estilo procedural você tem uma sequência de comandos, enquanto na POO você pensa em termos de objetos que interagem entre si, deixando o código mais “organizado” e fácil de manter em sistemas grandes.
+
+- Classe e Objeto:  
+  Uma classe é tipo um molde ou uma receita – ela diz como um objeto deve ser, definindo quais atributos (tipo cor, modelo, etc.) e métodos (como acelerar, frear) ele terá. Já o objeto é uma “cópia” concreta dessa receita. Ou seja, se a classe é a receita do bolo, o objeto é o bolo prontinho.
+
+- Encapsulamento:  
+  Aqui você “esconde” os detalhes internos do objeto. Só pode mexer nas informações dele através de métodos específicos (como getters e setters), garantindo que nada seja alterado de forma errada. É como se você tivesse uma caixa com seu segredo bem guardado.
+
+- Abstração:
+  Significa focar no que é realmente importante. Em vez de se perder nos detalhes complicados, você cria uma versão simplificada do que um objeto faz, expondo só o essencial pra quem for usar.
+
+- Herança:
+  Essa é a parte em que você evita ficar repetindo código. Uma classe pode “herdar” características de outra. Por exemplo, se você tem uma classe “Funcionário” com atributos comuns, as classes “CLT” e “Estagiário” podem herdar isso e adicionar o que for específico delas.
+
+- Polimorfismo:  
+  Basicamente, é a ideia de que o mesmo comando (ou método) pode funcionar de maneiras diferentes dependendo do objeto. Tipo, chamar um método “calcularFerias()” e ele fazer cálculos diferentes se for um CLT ou um estagiário – sem precisar ficar fazendo if pra saber qual é qual.
+
+No fim das contas, a POO ajuda a deixar seu código mais organizado, reutilizável e fácil de manter, especialmente quando o sistema começa a crescer. É uma forma de "pensar" que aproxima a programação do jeito que a gente vê o mundo real, fazendo com que tudo se encaixe direitinho.
