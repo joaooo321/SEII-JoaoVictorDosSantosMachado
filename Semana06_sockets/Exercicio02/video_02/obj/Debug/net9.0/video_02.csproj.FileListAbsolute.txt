@@ -1,0 +1,5 @@
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana06_sockets\Exercicio02\video_02\obj\Debug\net9.0\video_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana06_sockets\Exercicio02\video_02\obj\Debug\net9.0\video_02.AssemblyInfoInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana06_sockets\Exercicio02\video_02\obj\Debug\net9.0\video_02.AssemblyInfo.cs
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana06_sockets\Exercicio02\video_02\obj\Debug\net9.0\video_02.csproj.CoreCompileInputs.cache
+C:\Users\joaoo\Downloads\UFU\LINUX\SEII-JoaoVictorDosSantosMachado\Semana06_sockets\Exercicio02\video_02\obj\Debug\net9.0\video_02.sourcelink.json

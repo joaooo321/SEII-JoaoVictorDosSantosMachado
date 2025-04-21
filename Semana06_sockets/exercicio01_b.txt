@@ -1,0 +1,17 @@
+Limite de bytes a serem enviados por pacotes TCP e UDP:
+
+TCP (Transmission Control Protocol):
+O tamanho maximo de um segmento TCP depende do MTU (Maximum Transmission Unit) da rede, que geralmente e 1500 bytes para Ethernet. O tamanho util (payload) dos dados e reduzido apos o cabecalho TCP (20 bytes) e o cabecalho IP (20 bytes), restando em media 1460 bytes de dados uteis por segmento TCP.
+
+UDP (User Datagram Protocol):
+O tamanho maximo de um datagrama UDP tambem depende do MTU da rede. O cabecalho UDP e menor (8 bytes), resultando em um tamanho util de 1472 bytes. O tamanho total maximo de um datagrama UDP, incluindo o cabecalho, e 65507 bytes.
+
+Como um arquivo grande pode ser transmitido via internet:
+
+Um arquivo grande pode ser transmitido pela internet dividindo-o em pacotes menores. No caso do TCP, ele garante a integridade dos dados, reorganizando pacotes fora de ordem e retransmitindo pacotes perdidos. O UDP nao garante essas funcionalidades, mas e mais rapido, adequado para transmissoes em tempo real.
+
+Diferenca entre implementacoes TCP e UDP para este problema:
+
+TCP: E orientado a conexao, garantindo a entrega correta e ordenada dos pacotes, alem de corrigir erros e lidar com retransmissoes. Para transmissao de arquivos grandes, TCP e a escolha ideal devido a sua confiabilidade.
+
+UDP: E sem conexao, nao garante a ordem ou a entrega dos pacotes, sendo mais rapido, mas menos confiavel. UDP seria menos adequado para envio de arquivos grandes.

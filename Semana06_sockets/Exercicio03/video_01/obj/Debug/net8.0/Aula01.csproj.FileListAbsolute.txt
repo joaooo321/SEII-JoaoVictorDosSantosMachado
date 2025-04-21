@@ -1,0 +1,4 @@
+D:\SD arqui\semana06\exercicio03\Aula01\obj\Debug\net8.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SD arqui\semana06\exercicio03\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfoInputs.cache
+D:\SD arqui\semana06\exercicio03\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfo.cs
+D:\SD arqui\semana06\exercicio03\Aula01\obj\Debug\net8.0\Aula01.csproj.CoreCompileInputs.cache
